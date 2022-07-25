@@ -1,0 +1,17 @@
+total 60
+drwxr-xr-x 2 kumoth_ kumoth_ 4096 Jun 20 11:37 .
+drwxr-xr-x 6 kumoth_ kumoth_ 4096 Jun 10 15:27 ..
+-rwxr-xr-x 1 kumoth_ kumoth_   32 Jun 10 15:29 0-hello_world
+-rwxr-xr-x 1 kumoth_ kumoth_   29 Jun 10 15:33 1-confused_smiley
+-rwxr-xr-x 1 kumoth_ kumoth_   28 Jun 10 15:36 2-hellofile
+-rwxr-xr-x 1 kumoth_ kumoth_   39 Jun 10 15:44 3-twofiles
+-rwxr-xr-x 1 kumoth_ kumoth_   29 Jun 10 15:46 4-lastlines
+-rwxr-xr-x 1 kumoth_ kumoth_   30 Jun 10 15:47 5-firstlines
+-rwxr-xr-x 1 kumoth_ kumoth_   40 Jun 10 16:00 6-third_line
+-rwxr-xr-x 1 kumoth_ kumoth_   29 Jun 10 15:52 6-third_line~
+-rwxr-xr-x 1 kumoth_ kumoth_   86 Jun 20 11:08 7-file
+-rwxr-xr-x 1 kumoth_ kumoth_   36 Jun 20 11:34 8-cwd_state
+-rw-r--r-- 1 kumoth_ kumoth_  103 Jun 10 15:32 README.md
+-rw-r--r-- 1 kumoth_ kumoth_   12 Jun 10 16:05 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 kumoth_ kumoth_  800 Jun 10 15:50 iacta
+-rw-r--r-- 1 kumoth_ kumoth_    0 Jun 20 11:37 ls_cwd_content
